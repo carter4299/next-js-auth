@@ -4,9 +4,9 @@
 
 1. Download the inject.sh script and place it in your project root
 ```sh
-curl -o inject.sh asjdkbj
+curl -o inject.sh https://raw.githubusercontent.com/carter4299/next-js-auth/main/inject.sh
 # or 
-# wget sahjbdhjkas -O filename.ext
+# wget https://raw.githubusercontent.com/carter4299/next-js-auth/main/inject.sh -O inject.sh
 
 ```
 ```
