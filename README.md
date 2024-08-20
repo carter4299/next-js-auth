@@ -1,5 +1,3 @@
-# Auth Starter in NextJS app router
-
 ## Usage
 
 1. Download the inject.sh script and place it in your project root
