@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/carter4299/next-js-auth.git
+git clone https://github.com/cartersusi/next-js-auth.git
 
 ssl_secret=$(openssl rand -base64 32)
 ENV_VARS=$(cat <<EOF
